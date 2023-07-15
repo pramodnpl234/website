@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: lightcoral;
+    margin: 10px;
+    padding: 8px;
+    height: 100px;
+    border: 3px solid black;
+    border-radius: 8px;
+}
+
+.main {
+    height: 100vh;
+    background-color: cyan;
+    margin: 10px;
+}
+
+.footer {
+    background-color: green;
+    margin: 10px;
+}
